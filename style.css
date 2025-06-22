@@ -1,0 +1,18 @@
+.carousel-item img {
+    height: 90vh;
+    width: 100%;
+}
+
+.imageSize img{
+    height: 400px;
+    width: 500px;
+}
+
+
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
